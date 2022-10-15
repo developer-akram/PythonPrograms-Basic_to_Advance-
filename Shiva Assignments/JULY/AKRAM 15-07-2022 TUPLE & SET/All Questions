@@ -1,0 +1,13 @@
+# 1. Reverse the tuple
+# 2. Access value 20 from the tuple
+# 3. Create a tuple with single item 50
+# 4. Unpack the tuple into 4 variables
+# 5. Swap two tuples in Python
+# 6. Copy specific elements from one tuple to a new tuple
+# 7. Sort a tuple of tuples by 2nd item
+# 8. Counts the number of occurrences of item 50 from a tuple
+# 9. Check if all items in the tuple are the same
+# 10. Exercise 7: Modify the tuple
+# 11. WAP to find the max element in a set not using max()?
+# 12. WAP to reverse set elements(if random then display actual random and reverse of random elements)?
+# 13.WAP to display prime element in Set?

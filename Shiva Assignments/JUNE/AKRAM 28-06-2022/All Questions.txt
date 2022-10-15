@@ -1,0 +1,17 @@
+1.  WAP to Calculate Marksheet using five different subjects with the following condition.
+a) all subject marks should be 0 to 100.
+b) if only one subject mark is <33 then the student will be suppl.
+c) if all subject marks are >=33 then percentage and division should be calculated.
+d) if a student is suppl then five bonus marks can be applied to be pass and the result will be "pass by grace".
+e) Display Grace Subject name, distinction subject name, suppl subject name, and failed subject name.
+2. Write a program to find greatest number amoung three numbers (USING ELIF)
+3. Write a program to find greatest number amoung four numbers (USING ELIF)
+4. Write a program to check the input number is one digit positive or negitive
+5. Write a program to check divisibility of 3,5,9 with all combination.
+6. WAP to display "YES" and "NO" when the user press 'y' and 'n'?
+7. WAP to check the middle number is a three-digit number?
+8.WAP to check that entered char is vowel and consonant without using or operator
+9. WAP  TO CHECK THAT USERNAME AND PASSWORD BOTH ARE CORRECT OR NOT WHERE
+USERNAME IS YOUR FIRST NAME AND PASSWORD YOUR LASTNAME?
+PROVIDE SEPARATE MESSAGES FOR INVALID USERNAME, INVALID PASSWORD, INVALID USERNAME, AND PASSWORD?
+

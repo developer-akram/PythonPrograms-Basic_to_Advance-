@@ -1,0 +1,22 @@
+# 1. WAP to check palindrome in String?
+# 2. WAP to convert a string from upper case to lower case and lower case to upper case?
+# 3. WAP to replace the string char from the next consecutive String char (if char will be z then replace by a)?
+# 4. WAP to extract numeric, alphabets, and special char
+in separate string in any String?
+
+Special Characters(32–47 / 58–64 / 91–96 / 123–127)
+Numbers (48-57)
+Letters(65–90 / 97–122)
+
+# 5. WAP to display a number of repeated char in String?
+# 6. WAP to validate emaild? (@, ., the position of @ should be lesser of last dot position)
+# 7. WAP to display a strength of password that password is weak, medium,
+and Strong according to predefined cases?
+
+Strong (at least 3 special char, non-consecutive, not belonging with first name
+    and Lastname, one upper case char and numeric is mandatory, length minimum 6)
+Medium (at least 2 special char, non-consecutive, length minimum 6)
+
+Special Characters(32–47 / 58–64 / 91–96 / 123–127)
+Numbers (48-57)
+Letters(65–90 / 97–122)

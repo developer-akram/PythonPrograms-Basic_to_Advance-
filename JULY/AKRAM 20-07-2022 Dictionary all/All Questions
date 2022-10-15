@@ -1,0 +1,21 @@
+# 1. create a multi-dimension dictionary to store five student records and display max, min, total fees of students.
+# 2. WAP to convert a dictionary to set and set to the dictionary.
+# 3. WAP to convert a dictionary to list and list to the dictionary.
+# 4. WAP to create a multi-dimensions dictionary?
+# 5. WAP to convert Multi dimension Dictionary to Set?
+# 6. Write a program to check whether a given key exists in a dictionary or not.
+# 7. Write a program to iterate over dictionary items using for loop.
+# 8. Write a program to print only keys of a dictionary.
+# 9. Write a program to print values of dictionary.
+# 10. Write a program in python to map 2 lists into a dictionary.
+# 11. Python program to remove a set of keys.
+# 12. Python program to sort dictionary by values (Ascending/ Descending).
+# 13. Write a program to concatenate two dictionaries to create one.
+# 14. Write a program to sum all the values of a dictionary.
+# 15. Write a program to get the maximum and minimum value of dictionary.
+# 16. Write a program to check if a dictionary is empty or not.
+# 17. Write a program in Python to check whether value is exist or not in dictionary.
+# 18. Write a program to sort dictionary values in python.
+# 19. Write a program to check whether a key exists in the dictionary or not.
+# 20. Write a program in python to map keys to dictionary.
+ key = [‘Fruit’, ‘Vegetable’] value = [‘Mango’,’Tomato’]

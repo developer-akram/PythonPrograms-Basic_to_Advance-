@@ -1,0 +1,1 @@
+17. Write a program to count total number of notes in given amount.

@@ -1,0 +1,4 @@
+
+Milk:200
+Rent:400
+Date:Sun Sep 11 17:36:57 2022

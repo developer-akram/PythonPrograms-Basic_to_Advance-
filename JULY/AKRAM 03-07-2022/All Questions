@@ -1,0 +1,60 @@
+# 1. Write a program to print number 1 to n using for loop
+# 2.Write a program to print even numbers and odd numbers separately without using if [use for loop only]
+# 3. WAP to print a table of odd numbers?
+# 4. WAP to display fibonacci series?
+# 5. WAP to calculate factorial of any number with complete expression?
+# 6. WAP to calculate the sum of one digit positive number using for else
+# 7. Write the output of the following:
+# 8. Write a program to print first 10 natural number.
+# 9. Write a program to print first 10 even numbers.
+#10. Write a program to print first 10 even numbers.
+# 11. Write a program to print first 10 even numbers in reverse order.
+# 12. Write a program to print table of a number accepted from user.
+# 13. Write a program to display product of the digits of a number accepted from the user.
+# 14. Write a program to find the factorial of a number.
+# 15. Write a program to find the sum of the digits of a number accepted from user
+# 16. Write a program to check whether a number is prime or not.
+# 17. Accept 10 numbers from the user and display their average.
+# 18. Write a program to print all prime numbers  that fall between two numbers including both(accept two numbers from the user)
+# 19. Write a program to display sum of odd numbers and even numbers that fall between 12 and 37(including both numbers)
+# 20. Write a program to display all the numbers which are divisible by 11 but not by 2 between 100 and 500.
+# 21. Write a program to print numbers from 1 to 20 except multiple of 2 & 3.
+# 22. Write a program that keep on accepting number from the user until user enters Zero.
+ Display the sum and average of all the numbers.
+# 23. Write a program to accept decimal number and display its binary number.
+# 24. Accept a number and check whether it is palindrome or not.
+# 25. Write a program to accept a number and check whether it is a perfect number or not.
+# 26. Write a program to find the sum of the following series(accept values of x and n from user)
+1 + x/1! + x2/2! + ……….xn/n!
+# 27. Write a program to find the sum of following (Accept values of a, r, n from user)
+a + ar + ar2 + ar3 + ………..arn
+# 28. Write a function to display prime numbers below any number accepted from the user.
+# 29. Write a python program to print the square of all numbers from 1 to 10
+# 30. Write a python program to find the sum of all even numbers from 1 to 10
+# 31. Write a python program to read three numbers (a,b,c) and check
+how many numbers between ‘a’ and ‘b’ are divisible by ‘c’
+# 32. 4. Write a python program to get the following output
+1-----99
+2-----98
+3-----97
+.
+.
+98-----2
+99-----1
+# 33. Write a python program to read a number and print the binary of that number
+# 34. Write a python program to read four numbers (representing the four octets of an IP) and
+print the next five IP address
+Input:
+192 168 255 252
+----------Output---------
+192 168 255 253
+192 168 255 254
+192 168 255 255
+192 169 0 0
+192 169 0 1
+# 35. Write a python program to print the factorial of a given number
+# 36. Write a python program to print the first 10 numbers Fibonacci series
+# 37. Write a python program to print all prime numbers between 0 to 100 ,
+and print how many prime numbers are there.
+# 38. a, b, c = 0, 0, 0 . Write a python program to print all permutations using those three variables
+Output : 000 , 001 ,002, 003, 004, 0005 ,006, 007, 008, 009, 010, 011 …… 999

@@ -1,0 +1,9 @@
+# 1. Write a program to input two number and check the greatest number using ternary operator
+# 2.WAP to check vowel and consonant using a ternary operator?
+# 3. WAP to calculate the greatest number using a ternary operator in Python?
+# 4.WAP to check leap year using a ternary operator in Python?
+# 5. WAP to check divisibility of number that it is divisible by 3 and 5 or not?
+# 6. WAP to check divisibility of a number by 3 and 5, individually and both?
+# 7. WAP to check that salary is in income tax or not display the total amount and the taxable amount
+# 8. WAP to calculate electricity bill where unit price, total consumption will be entered by the user,
+ if the bill is <400 then pay only 100 RS and above this 50% amount will be paid.
